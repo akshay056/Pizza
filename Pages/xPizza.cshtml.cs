@@ -35,7 +35,5 @@ namespace Pizza.Pages
             Services.Delete(id);
             return RedirectToAction("Get");
         }
-
-
     }
 }
